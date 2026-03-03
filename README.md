@@ -1,5 +1,4 @@
 # WinAutoPilot
-# WinAutoPilot
 
 A simple Python automation script that demonstrates how to control Windows applications using keyboard simulation. This project uses the `pyautogui` library to automate opening Notepad and typing predefined text.
 
